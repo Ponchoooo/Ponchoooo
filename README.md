@@ -1,5 +1,5 @@
 
-<img width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIyZjQ4ZTJiOWQwOTNhOTc0YzNkYjAzMmJjZmZiZDZhZWU4OGYwOCZjdD1n/r9nTDFh8SsFQJXwdIR/giphy.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIyZjQ4ZTJiOWQwOTNhOTc0YzNkYjAzMmJjZmZiZDZhZWU4OGYwOCZjdD1n/r9nTDFh8SsFQJXwdIR/giphy.gif">
 
 <!--
 **Ponchoooo/Ponchoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
